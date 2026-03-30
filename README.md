@@ -1,21 +1,21 @@
-
-
 <h1 align="center">📊 Maycon Félix</h1>
 
 <p align="center">
-📈 Estudante de Análise de Dados <br>
-📊 Focado em transformar dados em insights <br>
-🚀 Em evolução constante na área de dados
+📈 Analista de Dados em formação <br>
+📊 Transformando dados em insights para tomada de decisão <br>
+🚀 Focado em evoluir na área de dados
 </p>
 
 ---
 
 ## 📊 Sobre mim
 
-* 📚 Estudando Análise de Dados
-* 🧠 Aprendendo a trabalhar com dados reais
-* 📈 Interesse em gerar insights e tomar decisões baseadas em dados
-* 🎯 Objetivo: minha primeira oportunidade como Analista de Dados
+Sou estudante de Análise de Dados com foco em transformar dados em informações úteis para negócios.
+
+* 📚 Estudando Python, SQL e análise de dados
+* 📊 Praticando análise exploratória (EDA)
+* 📈 Interesse em dashboards e visualização de dados
+* 🎯 Buscando minha primeira oportunidade como Analista de Dados
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Estatísticas
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayconfelixx&show_icons=true&theme=tokyonight"/>
@@ -41,24 +41,28 @@
 
 ## 📌 Projetos de Dados
 
-🚧 Em construção...
+🔹 Em desenvolvimento: análise de dados com Python
+🔹 Em breve: dashboard e visualização de dados
+🔹 Projetos com dados reais em construção
 
 ---
 
-## 📊 O que estou aprendendo
+## 📊 Habilidades em desenvolvimento
 
 * Limpeza e tratamento de dados
 * Análise exploratória (EDA)
-* Manipulação de dados com Python
-* Consultas com SQL
+* Manipulação de dados com Pandas
+* Consultas e análise com SQL
+* Visualização de dados
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar como Analista de Dados, ajudando empresas a tomar decisões com base em dados 📊
+Atuar como Analista de Dados, utilizando dados para gerar insights e apoiar decisões estratégicas 📊
 
 ---
+
 
 ## 📫 Contato
 
