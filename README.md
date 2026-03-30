@@ -17,6 +17,9 @@ Git e GitHub
 📈 Objetivo
 
 Entrar na área de tecnologia como Analista de Dados 🚀
+
+
+
 📫 Contato
 Email: mayconpaivabh@icloud.com  
 LinkedIn: https://www.linkedin.com/in/mayconfelix/
