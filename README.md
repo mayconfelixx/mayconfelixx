@@ -33,10 +33,9 @@ Sou estudante de Análise de Dados com foco em transformar dados em informaçõe
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayconfelixx&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconfelixx&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayconfelixx&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconfelixx&layout=compact&theme=tokyonight&langs_count=6"/>
 </p>
-
 ---
 
 ## 📌 Projetos de Dados
