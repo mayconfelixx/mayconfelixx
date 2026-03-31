@@ -26,7 +26,6 @@ Antes da tecnologia, trabalhei por anos com gestão de processos e controle de d
 
 - 🎓 Cursando ADS na Universidade Anhanguera
 - 📊 Praticando análise exploratória de dados (EDA)
-- 🏆 Bootcamp DIO — Heineken IA Aplicada a Dados com Copilot
 - 🎯 Buscando minha primeira vaga como **Analista de Dados Jr**
 
 ---
